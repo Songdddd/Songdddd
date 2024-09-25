@@ -3,7 +3,13 @@
 - 🌱 I’m currently pursuing a BA in NYU CS&Math
 - 💞️ I’m looking to collaborate on ... EVERYTHING
 - 📫 How to reach me ? DerrickSonghaoyuan@gmail.com
-- ⚡ Fun fact: I have 5 guinea pigs 
+- ⚡ Fun fact: I have 5 guinea pigs
+
+![Guinea pig GIF](https://media.giphy.com/media/ScqAeEerCnXlS/giphy.gif)
+
+
+
+
 
 <!---
 Songdddd/Songdddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
