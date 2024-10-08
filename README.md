@@ -3,11 +3,11 @@
 <h3 align="center">My Mama: "Best coder among guinea pig keepers and the best guinea pig keeper among coders"<h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, TypeScript, PHP)
+- Backend web development (Python, C#, PHP)
 - Frontend web development (Vue.js, React.js, HTML, CSS)
 - Deep Learning and Machine Learning
-- Best restaurant near New York University
-- Guinea Pig caring skills (seriously)
+- Best restaurants in New York City
+- Guinea Pig caring skills
 - Space Techs
 
 
@@ -25,3 +25,4 @@
 
 ## 📧 Find me
 - Reach me: DerrickSonghaoyuan@gmail.com
+- Personal Website: https://songdddd.github.io/DerrickSong/
