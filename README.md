@@ -1,17 +1,25 @@
-- 👋 Hi, I’m Derrick Song
-- 👀 I’m interested in Software Engineering and Space Tech
-- 🌱 I’m currently pursuing a BA in NYU CS&Math
-- 💞️ I’m looking to collaborate on ... EVERYTHING
-- 📫 How to reach me ? DerrickSonghaoyuan@gmail.com
-- ⚡ Fun fact: I have 5 guinea pigs
+<h1 align="center">Hi 👋, I'm Derrick Song</h1>
+<h2 align="center">A software engineer with five guinea pigs</h2>
+<h3 align="center">Best coder among guinea pig keepers and the best guinea pig keeper among coders<h3>
 
-![Guinea pig GIF](https://media.giphy.com/media/ScqAeEerCnXlS/giphy.gif)
+## 💬 Ask me about
+- Backend web development (Python, TypeScript, PHP)
+- Frontend web development (Vue.js, React.js, HTML, CSS)
+- Deep Learning and Machine Learning
+- Best restaurant near New York University
+- Guinea Pig caring (seriously)
+- Space Techs
 
 
+## 📅 Hobbies
+- Solve programming problems at Codeforces, LeetCode
+- Play videogames:  War Thunder, Kerbal Space Program
+- Sharing KSP craft models
+- etc...
 
+## 💻 Current projects
+- Mobile APP: While We Are Dreaming
+- Kerbal Space Program Addon: DSAutopilot
 
-
-<!---
-Songdddd/Songdddd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📧
+- Reach me: DerrickSonghaoyuan@gmail.com
