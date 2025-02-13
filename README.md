@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derrick Song</h1>
 <h3 align="center">A software engineer with five guinea pigs</h3>
-<h3 align="center">My Mama: "Best coder among guinea pig keepers and the best guinea pig keeper among coders"<h3>
+<h3 align="center">"Best coder among guinea pig keepers and the best guinea pig keeper among coders"<h3>
 
 ## 💬 Ask me about
 - Backend web development (Python, C#, PHP)
